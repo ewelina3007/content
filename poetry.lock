@@ -612,7 +612,7 @@ build = ["gsutil (==5.17)"]
 type = "git"
 url = "https://github.com/demisto/demisto-sdk.git"
 reference = "search_timeout"
-resolved_reference = "39a02b8c4ca7c63d5fa294bfdd46b03471b9ff45"
+resolved_reference = "1503f68bb8ebce1c6efacae32f3635df61d12db1"
 
 [[package]]
 name = "Deprecated"
